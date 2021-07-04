@@ -1,0 +1,7 @@
+[defaults]
+group = luv7620012003_rg_Linux_centralus
+sku = B1
+appserviceplan = luv7620012003_asp_Linux_centralus_0
+location = centralus
+web = healthcare11
+

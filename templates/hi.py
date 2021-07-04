@@ -1,0 +1,1 @@
+a = input("hi whart is you name ")
